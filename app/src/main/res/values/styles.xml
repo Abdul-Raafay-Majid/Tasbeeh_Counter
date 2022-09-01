@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="small_btn">
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:colorBackground">@color/Accent_Color</item>
+        <item name="android:background">@drawable/btn_small</item>
+    </style>
+
+
+    <style name="large_btn">
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:colorBackground">@color/Accent_Color</item>
+        <item name="android:background">@drawable/large_btn</item>
+    </style>
+
+</resources>

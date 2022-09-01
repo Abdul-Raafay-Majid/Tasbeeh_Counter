@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginEnd="8dp"
+    android:background="@drawable/dikhr_item_background"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/word_textView"
+        style="@style/Text_Appearance_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:ellipsize="end"
+        android:maxWidth="210dp"
+        android:text="Dikhr:"
+        android:textSize="28sp">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/date_textView"
+        style="@style/Text_Appearance_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/word_textView"
+        android:layout_alignParentStart="true"
+        android:fontFamily="cursive"
+        android:text="Date:"
+        android:textSize="15sp"
+        android:textStyle="normal">
+
+    </TextView>
+
+
+    <TextView
+        android:id="@+id/count_textView"
+        style="@style/Text_Appearance_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="55dp"
+        android:background="@drawable/circle_count"
+        android:gravity="center"
+        android:text="Count:">
+
+    </TextView>
+
+
+    <ImageButton
+        android:id="@+id/resume_button"
+        android:layout_width="35dp"
+        android:layout_height="37dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/ic_resume">
+
+    </ImageButton>
+
+    <ImageButton
+        android:id="@+id/delete_button"
+        android:layout_width="35dp"
+        android:layout_height="37dp"
+        android:layout_below="@id/resume_button"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/ic_baseline_delete_24">
+
+    </ImageButton>
+
+</RelativeLayout>

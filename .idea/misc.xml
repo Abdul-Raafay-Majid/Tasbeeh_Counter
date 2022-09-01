@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/btn_large.xml" value="0.1695" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/btn_small.xml" value="0.1695" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/button_background_ok.xml" value="0.1645" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/circle_count.xml" value="0.1695" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/dikhr_item_background.xml" value="0.1695" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1695" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/ic_resume.xml" value="0.1695" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/large_btn.xml" value="0.1695" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/large_btn_pressed.xml" value="0.1695" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/pld_dialog_background.xml" value="0.1695" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/pld_item_background.xml" value="0.1695" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/small_btn.xml" value="0.1695" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/small_btn_pressed.xml" value="0.1695" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/styles.xml" value="0.1695" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/drawable/toast_background.xml" value="0.1645" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/font/font.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/layout-v26/activity_main.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/layout/activity_pld.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/layout/add_pld_dialog.xml" value="0.4" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/layout/custom_limit_toast.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/layout/dikhr_item.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/layout/limiter_dialog.xml" value="0.25677083333333334" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/TasbeehCounter/app/src/main/res/layout/pld_item.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
